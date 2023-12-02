@@ -2,6 +2,9 @@
 
 This GitHub repository contains a clone of the Spotify homepage user interface. It is built using Angular for the front-end, JSON-Server for simulating a back-end server, and Bootstrap for styling.
 
+![image](https://github.com/unnikrishn6/Spotify-UI-Clone/assets/111999304/e26a6f21-58db-45f9-a29a-180d42ded32b)
+
+
 ## Features
 
 - Home page layout resembling Spotify's user interface.
