@@ -1,0 +1,59 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "name": "Neon Blade",
+      "author": "MoonDeity",
+      "year": 2022,
+      "img": "https://i.scdn.co/image/ab67616d0000b27333364d6b6fd36894f1a3b506",
+      "link": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+    },
+    {
+      "id": 2,
+      "name": "The Monster Song",
+      "author": "KGF Chapter 2",
+      "year": 2022,
+      "img": "https://i.scdn.co/image/ab67616d0000b273cf71d7eb9a03b8d717f602ab",
+      "link": "https://open.spotify.com/track/6Ml882mcsf03PGkoqMp0vL"
+    },
+    {
+      "id": 3,
+      "name": "7 Rings",
+      "author": "Ariana Grande",
+      "year": 2019,
+      "img": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+      "link": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
+    },
+    {
+      "id": 4,
+      "name": "Levitating",
+      "author": "Dua Lipa",
+      "year": 2020,
+      "img": "https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946",
+      "link": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
+    }
+  ],
+  "playlists": [
+    {
+      "id": 1,
+      "title": "Chill Hits",
+      "subtitle": "Kick back to the best new and recent chill hits.",
+      "img": "https://i.scdn.co/image/ab67706f00000002b60db5d1bcdd9c4fd1ebcffe",
+      "link": "https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6"
+    },
+    {
+      "id": 2,
+      "title": "Mega Hit Mix",
+      "subtitle": "A mega mix of 75 favorites from the last few years!",
+      "img": "https://i.scdn.co/image/ab67706f00000002db32a17c1f5291b19317b62e",
+      "link": "https://open.spotify.com/playlist/37i9dQZF1DXbYM3nMM0oPk"
+    },
+    {
+      "id": 3,
+      "title": "This Dua Lipa",
+      "subtitle": "The essential tracks, all in one playlist.",
+      "img": "https://i.scdn.co/image/ab67706f000000022f55786023a8f5502989e23c",
+      "link": "https://open.spotify.com/playlist/37i9dQZF1DX3fRquEp6m8D"
+    }
+  ]
+}

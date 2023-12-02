@@ -1,0 +1,31 @@
+.footer-content {
+    display: flex;
+}
+
+.footer-content div {
+    padding: 50px;
+}
+
+h6 {
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+
+a , .copyright{
+    color: rgb(169, 169, 169);
+    padding: 5px 0px;
+    font-size: 15px;
+    display: block;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+@media screen and (max-width:800px) {
+    .content{
+        display: none;
+    }
+}

@@ -1,0 +1,22 @@
+<app-header></app-header>
+<app-navbar></app-navbar>
+<div class="main">
+    <div class="category">
+        <div class="d-flex">
+            <h4><b>Recently Played</b></h4>
+            <a href="" class="show">Show all</a>
+        </div>
+        <div class="songs">
+            <div class="card" *ngFor="let song of list">
+                <img class="card-img-top" src={{song.img}} alt="Card image" height="220px">
+                <img class="controls" src="./assets/play.png" (click)="redirect(song)" width="45px">
+                <div class="card-body">
+                    <h5 class="card-title">{{song.name}}</h5>
+                    <p class="card-text">{{song.year}} • {{song.author}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <app-playlist></app-playlist>
+    <app-footer></app-footer>
+</div>
